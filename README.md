@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @VadimMonroe
-- 🔶 My stack: Python, MySQL, MongoDB, HTML, CSS, JSON, Git
 - 🌱 I’m currently learning. Python Web Developing, DataScience and etc...
-
 - 📫 How to reach me. 
                       propoved@mail.ru
                       @VMonroe in Telegram
