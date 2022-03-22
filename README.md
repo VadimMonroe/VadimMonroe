@@ -1,5 +1,15 @@
 - 👋 Hi, I’m @VadimMonroe
-- 🌱 I’m currently learning. Python Web Developing, DataScience and etc...
+- 🌱 My stack: 
+  - Python
+  - SQL/NoSQL
+  - HTML
+  - CSS
+- 🌱 Interested in: 
+  - GameDev
+  - GuiDev
+  - WebDev
+  - RoboticsDev
+  - DataScience/AI
 - 📫 How to reach me:
   - ✉️ mail: propoved@mail.ru
   - ✉️ Telegram: @VMonroe
