@@ -1,3 +1,6 @@
+![python_original_logo_icon_146381](https://user-images.githubusercontent.com/82668410/161049857-27454565-cfbc-43ec-8173-329fa66d8ec5.png)
+
+
 - 👋 Hi, I’m @VadimMonroe
 - 🌱 My stack: 
   - Python
